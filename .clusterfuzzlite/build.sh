@@ -16,4 +16,6 @@
 ################################################################################
 
 # Run the OSS-Fuzz script in the curl-fuzzer project.
+ls -al /src/curl/docs
+
 ./ossfuzz.sh
